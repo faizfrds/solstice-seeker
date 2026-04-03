@@ -10,7 +10,7 @@ Photographers travel hours to a National Park only to find the rock formation or
 
 An interactive 3D map that lets you simulate light play on specific landforms. "Time travel" through any day to see exactly when light hits a specific spot.
 
-![Alt Text](public/data/Screenshot 2026-04-02 at 22.39.20.png)
+![demo-image]('public/data/Screenshot 2026-04-02 at 22.39.20.png')
 
 ## Features
 
