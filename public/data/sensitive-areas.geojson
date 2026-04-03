@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Angel's Landing Trail Corridor", "park": "zion", "reason": "Fragile cryptobiotic soil crust; off-trail access causes severe erosion" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-112.9488, 37.2690],
+          [-112.9454, 37.2690],
+          [-112.9454, 37.2720],
+          [-112.9488, 37.2720],
+          [-112.9488, 37.2690]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "The Narrows – Virgin River riparian zone", "park": "zion", "reason": "Sensitive aquatic habitat; wading disturbs macroinvertebrates" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-112.9530, 37.3020],
+          [-112.9510, 37.3020],
+          [-112.9510, 37.3200],
+          [-112.9530, 37.3200],
+          [-112.9530, 37.3020]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "The Wave – Coyote Buttes North", "park": "grand-canyon-region", "reason": "Permitting area; sandstone formation is irreplaceable and easily damaged by foot traffic" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-112.0050, 37.0060],
+          [-111.9980, 37.0060],
+          [-111.9980, 37.0120],
+          [-112.0050, 37.0120],
+          [-112.0050, 37.0060]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Delicate Arch Viewpoint Closure Zone", "park": "arches", "reason": "Arch base rock is susceptible to spalling from human contact and thermal stress" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-109.4990, 38.7430],
+          [-109.4940, 38.7430],
+          [-109.4940, 38.7460],
+          [-109.4990, 38.7460],
+          [-109.4990, 38.7430]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Zabriskie Point Badlands", "park": "death-valley", "reason": "Mudstone badlands easily eroded; off-trail footprints persist for decades" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-116.8140, 36.4200],
+          [-116.8060, 36.4200],
+          [-116.8060, 36.4250],
+          [-116.8140, 36.4250],
+          [-116.8140, 36.4200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hoh Rainforest Ancient Grove", "park": "olympic", "reason": "Old-growth nurse logs host rare bryophyte communities requiring zero compaction" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-123.9350, 47.8600],
+          [-123.9300, 47.8600],
+          [-123.9300, 47.8650],
+          [-123.9350, 47.8650],
+          [-123.9350, 47.8600]
+        ]]
+      }
+    }
+  ]
+}
