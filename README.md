@@ -27,7 +27,7 @@ An interactive 3D map that lets you simulate light play on specific landforms. "
 |---|---|
 | 3D Terrain | Cesium + Google Photorealistic 3D Tiles |
 | Sun Physics | SunCalc |
-| UI | React + Zustand |
+| UI | React + Zustand + Google Stitch|
 | Styling | Tailwind CSS |
 
 ## Setup
